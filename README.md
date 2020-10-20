@@ -6,14 +6,13 @@
 Reto 0: Hola Mundo
 - Variables
 - Operadores 
-Reto 1: 
+- Reto 1: 
 - Condicionales
 - Arrays
 - Array Methods
 - Loops
-Reto 2: 
+- Reto 2: 
 - Objects
 - Funciones
-Reto 3:
-
-Retos de tarea
+- Reto 3:
+- Retos de tarea
