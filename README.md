@@ -90,7 +90,7 @@ Reto 0: Hola mundo en JS
   - [IoT con JS: Johnny Five](http://johnny-five.io/)
   
 ### Retos
-Completo los retos diario a partir del lunes. Comparte tu avance en Discord.
+Completa los retos diario a partir del lunes. Comparte tu avance en Discord.
   - [10 dias de JS](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript)
 
 ### Sígue al DSC
