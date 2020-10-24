@@ -85,8 +85,12 @@ Reto 0: Hola mundo en JS
   - [JavaScript es sexy](https://javascriptissexy.com/)
   - [JavaScript para gatos](http://jsforcats.com/)
   - [Libros You don't know JS](https://github.com/getify/You-Dont-Know-JS)
+  - Aprende HTML, Node, Express en [GitHub Learning Lab](https://lab.github.com/)
+  - [Machine Learning in JS for beginners](https://thecodingtrain.com/learning/ml5/)
+  - [IoT con JS: Johnny Five](http://johnny-five.io/)
   
 ### Retos
+Completo los retos diario a partir del lunes. Comparte tu avance en Discord.
   - [10 dias de JS](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript)
 
 ### Sígue al DSC
